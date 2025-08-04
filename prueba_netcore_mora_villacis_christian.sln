@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Infraestructure", "POS.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Utilities", "POS.Utilities\POS.Utilities.csproj", "{96A0511B-25A9-4DDC-A56F-D2012B9A654B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Infrastructure.Tests", "POS.Infrastructure.Tests\POS.Infrastructure.Tests.csproj", "{663165C4-5B0D-4458-83FE-8C983207C19A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{96A0511B-25A9-4DDC-A56F-D2012B9A654B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96A0511B-25A9-4DDC-A56F-D2012B9A654B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96A0511B-25A9-4DDC-A56F-D2012B9A654B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663165C4-5B0D-4458-83FE-8C983207C19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663165C4-5B0D-4458-83FE-8C983207C19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663165C4-5B0D-4458-83FE-8C983207C19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663165C4-5B0D-4458-83FE-8C983207C19A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
